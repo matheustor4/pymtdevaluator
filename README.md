@@ -14,13 +14,13 @@ PyMTDEvaluator docker container requires a XWindow server.
 - Xwindow server is usually available on most Linux OSes.
 - For windows and mac, the user may select the preferred XWindow server. 
 
-Installation Linux-specific
+**Installation Linux-specific**
 
 #Download PyMTDEvaluator-dockerImage.tar: Image available at: https://drive.google.com/file/d/10YIpgBKpakSDKULHjIOwSim88lS_Qwkd/view?usp=sharing
 
 #Loading PyMTDEvaluator image on your Docker platform
 
-  sudo docker load < PyMTDEvaluator-dockerImage.tar
+	sudo docker load < PyMTDEvaluator-dockerImage.tar
 
 #Checking images listing
 
