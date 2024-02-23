@@ -4,6 +4,19 @@ PyMTDEvaluator is a tool for evaluating the effectiveness of time-based Moving T
 
 ## Cite us
 
+PyMTDEvaluator was first published in [2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)](https://ieeexplore.ieee.org/abstract/document/9700355). If you use the tool, please cite the following publication.
+
+	@inproceedings{torquato2021pymtdevaluator,
+  	title={Pymtdevaluator: A tool for time-based moving target defense evaluation: Tool description paper},
+  	author={Torquato, Matheus and Maciel, Paulo and Vieira, Marco},
+  	booktitle={2021 IEEE 32nd International Symposium on Software Reliability Engineering (ISSRE)},
+  	pages={357--366},
+  	year={2021},
+  	organization={IEEE}
+	}
+
+
+
 ## Installation
 
 PyMTDEvaluator depends on some libraries described in the paper. 
